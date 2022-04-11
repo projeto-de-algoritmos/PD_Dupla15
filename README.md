@@ -24,7 +24,13 @@ Temas:
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+Este repositório tem como foco resolver os seguintes problemas:
+
+https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+https://leetcode.com/problems/longest-increasing-subsequence/
+https://www.hackerrank.com/challenges/unbounded-knapsack/problem
+https://www.eolymp.com/en/problems/1453
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
