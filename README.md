@@ -28,8 +28,11 @@ Temas:
 Este repositório tem como foco resolver os seguintes problemas:
 
 https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+
 https://leetcode.com/problems/longest-increasing-subsequence/
+
 https://www.hackerrank.com/challenges/unbounded-knapsack/problem
+
 https://www.eolymp.com/en/problems/1453
 
 ## Screenshots
