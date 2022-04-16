@@ -31,7 +31,7 @@ https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 
 https://leetcode.com/problems/longest-increasing-subsequence/
 
-https://www.hackerrank.com/challenges/unbounded-knapsack/problem
+https://www.beecrowd.com.br/judge/pt/problems/view/1286
 
 https://www.codingninjas.com/codestudio/problems/bellmon-ford_2041977?leftPanelTab=0
 
