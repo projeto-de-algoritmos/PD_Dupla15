@@ -33,7 +33,7 @@ https://leetcode.com/problems/longest-increasing-subsequence/
 
 https://www.hackerrank.com/challenges/unbounded-knapsack/problem
 
-https://www.eolymp.com/en/problems/1453
+https://www.codingninjas.com/codestudio/problems/bellmon-ford_2041977?leftPanelTab=0
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
