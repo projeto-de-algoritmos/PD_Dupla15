@@ -23,13 +23,11 @@ Este repositório tem como foco resolver os seguintes problemas:
 
 ## Screenshots
 
-## Screenshots
-
 <div align="center">
 
   <img src="./images/img1.png" height=300px>
 
-  [Figura 1: Imagem do programa](./images/img1.png)
+  [Figura 1: Imagem da solução](./images/img1.png)
 
 </div>
   
@@ -37,7 +35,7 @@ Este repositório tem como foco resolver os seguintes problemas:
 
   <img src="./images/img2.png" height=300px>
   
-  [Figura 2: Imagem do programa](./images/img2.png)
+  [Figura 2: Imagem da solução](./images/img2.png)
   
  </div>
   
@@ -45,7 +43,7 @@ Este repositório tem como foco resolver os seguintes problemas:
 
   <img src="./images/img3.png" height=300px>
   
-  [Figura 3: Imagem do programa](./images/img3.png)
+  [Figura 3: Imagem do problema](./images/img3.png)
   
 </div>
 
