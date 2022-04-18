@@ -17,7 +17,7 @@ class Solution:
         job = list(zip(startTime, endTime, profit))
 		
 		# Fazemos a ordenação pelo tempo inicial
-        job.sort(key=lambda x: startTime)
+        job.sort(key=lambda x: x[0])
         
         # Criamos uma lista com os elementos iniciais da lista job para 
         # podermos modificá-lo à frente.
