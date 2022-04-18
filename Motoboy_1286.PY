@@ -1,6 +1,7 @@
 def knapSack(W, wt, val, n):
     K = [[0 for x in range(W + 1)] for x in range(n + 1)]
   
+    # Construir a tabela K[][] de forma ascendente
     for i in range(n + 1):
         for w in range(W + 1):
             if i == 0 or w == 0:
